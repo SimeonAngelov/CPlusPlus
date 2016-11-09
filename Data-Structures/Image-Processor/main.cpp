@@ -78,7 +78,6 @@ int main(int argc, char* argv[])
 			}
 		}
 	}
-	////ne zabravqi da si iztriesh masiva kaput
 
 	return 0;
 }
